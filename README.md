@@ -9,25 +9,15 @@
 - HTML
 - Javascript (MERN Stack)
 - Python
-- Ruby on Rails
+- Ruby 
 
 #### Experience
 - 5 years in mortgage lending and sales training 
 - 7 years freelance web & graphic design  
 
 #### Education
-- Coding Dojo (part of Colorado Technical University)
-  - Certificate with Honors : Full-time Immersive Software Development Program in Python, C#, Javascript
-- Florida Gulf Coast University
-  - B.A. Elementary Education
-  - ESOL Endorsement
-  - Reading Endorsement
-
-#### Additional Certificates
-- Codecademy
-  - Ruby & Ruby on Rails 
-- Harvard University (through EdX)
-  - CS50T (Intro to Computer Science: Undertsanding Technology) 
+- Software Development Certificate from Coding Dojo 
+- B.A. Elementary Education + ESOL & Reading Endorsements from Florida Gulf Coast University
 
 #### Goal
 - I'm passionate about building accessible applications to meet the needs of people and the businesses they love. 
