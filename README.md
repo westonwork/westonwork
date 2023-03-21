@@ -4,12 +4,7 @@
 - Currently living in Southwest Florida
 
 #### Languages
-- C#/.NET
-- CSS
-- HTML
-- Javascript (MERN Stack)
-- Python
-- Ruby 
+- C#/.NET, CSS, HTML, Javascript (MERN), Python, Ruby 
 
 #### Experience
 - 5 years in mortgage lending and sales training 
