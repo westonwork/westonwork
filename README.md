@@ -11,7 +11,7 @@
 - 7 Years freelance web & graphic design 
 
 #### 📝 Education
-- Software Development Certificate from Coding Dojo 
+- Software Development Certificate from Coding Dojo (part of Colorado Technical University)
 - B.A. Elementary Education + ESOL & Reading Endorsements from Florida Gulf Coast University
 
 #### 🌱 About Me
