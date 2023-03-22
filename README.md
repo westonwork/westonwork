@@ -21,4 +21,4 @@ I believe that as software developers we can use clean code and intentional desi
 #### 📫 Email
 - Emmylombardo@aol.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westonwork&show_icons=true&locale=en" alt="westonwork" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westonwork&show_icons=true&locale=en" alt="westonwork" /></p> -->
