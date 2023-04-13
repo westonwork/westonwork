@@ -1,13 +1,13 @@
 ## Hi! I'm Emily Weston
 
 #### 🌱 Location 
-- Currently living in Southwest Florida
+- Southwest Florida, USA
 
 #### 👨‍💻 Languages
 - C#/.NET, CSS, HTML, Javascript (MERN), Python, Ruby, SQL
 
 #### 📝 Experience
-- 5 Years in mortgage lending and sales training 
+- 5 Years in mortgage lending and corporate training 
 - 7 Years freelance web & graphic design 
 
 #### 📝 Education
