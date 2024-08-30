@@ -1,18 +1,18 @@
 ## Hi! I'm Emily Weston
 
 #### 🌱 Location 
-- Southwest Florida, USA
+- San Francisco, California
 
 #### 👨‍💻 Languages
-- C#/.NET, CSS, HTML, Javascript (MERN), Python, Ruby, SQL
+- C#/.NET, CSS, HTML, Java, Javascript (MERN), Python, SQL
 
 #### 📝 Experience
-- 5 Years in mortgage lending and corporate training 
+- 5 Years in corporate training and mortgage lending
 - 7 Years freelance web & graphic design 
 
 #### 📝 Education
-- Software Development Certificate from Coding Dojo (part of Colorado Technical University)
-- B.A. Elementary Education + ESOL & Reading Endorsements from Florida Gulf Coast University
+- Software Development Bootcamp Certificate, Coding Dojo (part of Colorado Technical University)
+- Bachelor's Degree in Education (Elementary K-6 + ESOL & Reading Endorsements), Florida Gulf Coast University
 
 #### 🌱 About Me
 - I'm passionate about building accessible applications to meet the needs of people and the businesses they love. 
